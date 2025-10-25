@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 - 💡 Enjoys solving problems through clean and efficient code  
 - 🚀 Loves learning new technologies and improving development workflow  
 - 🧩 Focused on building meaningful and user-centered applications  
