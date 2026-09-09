@@ -19,7 +19,7 @@ I’m deeply interested in **web and mobile development**, especially in **Flutt
 - Flutter • Dart  
 - PHP • Laravel 
 - JavaScript • HTML • CSS  
-- Java
+- Java • Kotlin
 
 ## AI & Machine Learning
 - Python • Pytorch • NumPy • Pandas
