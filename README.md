@@ -43,22 +43,13 @@ I’m deeply interested in **web and mobile development**, especially in **Flutt
 - Laragon
 - Roblox Studio
 
-### GitHub Stats
-<div align="left">
-
-![Dimas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimasHizkiawan&show_icons=true&theme=default&hide_border=true)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DimasHizkiawan&layout=compact&theme=default&hide_border=true)
-
-</div>
-
 ---
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimas-assa-94ba68383)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/neverzkingz)  
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:dimashizkiawan@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:dimashizkiawan@gmail.com)  
+[![Roblox](https://img.shields.io/badge/Roblox-Profile-red?style=flat&logoColor=white)](https://www.roblox.com/users/619705164/profile)  
 ---
 
 💬 _“The best way to predict the future is to create it.”_  
